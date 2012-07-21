@@ -68,7 +68,7 @@ reverse engineer the battery charging handshake via USB.</p>
 
 <p>
 <ul>
-	<li>Latest release: <b>0.18.4</b>, released on 2012/05/25</li>
+	<li>Latest release: <b>0.19.0</b>, released on ????/??/??</li>
 	<li>License: GPL v2 or later</li>
 
 	<li>Download official source and binary packages from
